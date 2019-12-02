@@ -1,6 +1,9 @@
-# vuepos
+# AwesomePOS 
 
-> A Vue.js project
+> 这是为老婆作的快餐店管理系统，已经答应老婆作好几年了都没给他作，今天开始要为老婆制作这个系统。
+
+## 技术栈
+前端 ：vue2 + webpack + vueRouter + element
 
 ## Build Setup
 
@@ -18,11 +21,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-## 说明
-vue-cli自动生成的webpack项目，仅初始化，未安装其他组件，可用来做router或vuex的联系。
-
-
-> 建议vue-cli也自己试一下创建几个项目看看
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
